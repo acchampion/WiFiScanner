@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiScannerNew</string>
+    <string name="scan_text">Scan</string>
+    <string name="suppress_msg">Don\'t show this message again</string>
+    <string name="suppress_dialog_key">suppress_notice_dialog</string>
+    <string name="loaded_db_key">loaded_db</string>
+    <string name="read_location_permission_denied">User denied request for location permission</string>
+</resources>
